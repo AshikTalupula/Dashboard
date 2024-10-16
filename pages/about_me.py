@@ -4,7 +4,7 @@ from forms.contact import contact_form
 # --- HERO SECTION ---
 col1, col2 = st.columns(2, gap="small", vertical_alignment="center")
 with col1:
-  st.image("./assets/profile_image.png", width=280)
+  st.image("./assets/coat3.png", width=280)
 
 with col2:
   st.title("Ashik Talupula", anchor=False)
@@ -32,7 +32,7 @@ st.write(
   - **Customer Insights**: By analyzing trends in existing customer data, I have successfully increased our customer base. Understanding customer behavior and preferences is key to driving engagement and loyalty.
 
   ### My Vision
-  I believe that effective supply chain management is not just about logistics; it’s about creating a seamless experience for customers and stakeholders alike. I am committed to continuous improvement and innovation, always seeking new ways to enhance processes and deliver value.
+  I believe that effective supply chain management is not just about logistics ,it’s about creating a seamless experience for customers and stakeholders alike. I am committed to continuous improvement and innovation, always seeking new ways to enhance processes and deliver value.
   """
 )
 

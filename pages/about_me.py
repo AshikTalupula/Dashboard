@@ -4,7 +4,7 @@ from forms.contact import contact_form
 # --- HERO SECTION ---
 col1, col2 = st.columns(2, gap="small", vertical_alignment="center")
 with col1:
-  st.image("./assets/coat3.png", width=280)
+  st.image("./assets/profile3.png", width=280)
 
 with col2:
   st.title("Ashik Talupula", anchor=False)
